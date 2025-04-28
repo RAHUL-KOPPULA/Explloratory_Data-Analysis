@@ -1,4 +1,4 @@
-📊 #Exploratory Data Analysis (EDA) on Titanic Dataset
+📊 _Exploratory Data Analysis (EDA) on Titanic Dataset_
 📁 #Project Overview
 This project involves performing Exploratory Data Analysis (EDA) on the Titanic Dataset to extract meaningful insights using visual and statistical methods.
 
@@ -10,7 +10,7 @@ Understand relationships between features like Age, Gender, Passenger Class, and
 
 Develop basic storytelling through data visualization.
 
-#🛠 Tools Used
+_🛠 Tools Used_
 Python
 
 Pandas (Data manipulation)
@@ -21,14 +21,14 @@ Matplotlib (Data visualization)
 
 Jupyter Notebook (Analysis & Documentation)
 
-#📋 Dataset Details
+_📋 Dataset Details_
 Source: [Titanic Dataset (train.csv)](https://www.kaggle.com/c/titanic/data?select=train.csv)
 
 Columns: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
 Target Variable: Survived (0 = No, 1 = Yes)
 
-#📈 Key Steps Performed
+_📈 Key Steps Performed_
 Data Loading and Inspection
 
 Read the CSV file.
@@ -59,7 +59,7 @@ Summary of Findings
 
 Noted important conclusions at the end of the analysis.
 
-#🔥 Important Observations
+_🔥 Important Observations_
 Females had a significantly higher survival rate than males.
 
 First-class passengers had the highest survival chances.
@@ -68,15 +68,16 @@ Younger passengers and higher fare payers had better survival outcomes.
 
 Heavy missing data was noted in the Cabin feature.
 
-#📂 Project Structure
+
+_📂 Project Structure_
 cpp
 Copy code
 ├── train.csv
 ├── Titanic_EDA.ipynb
 ├── README.md
 └── output.pdf (optional: EDA Report in PDF)
-#🚀 How to Run
-#Clone this repository:
+_🚀 How to Run_
+_Clone this repository:_
 
 bash
 Copy code
@@ -99,4 +100,4 @@ jupyter notebook Titanic_EDA.ipynb
 📧 Contact
 Rahulrkgs34@gmail.com
 
-🌟 Thank you for visiting the project!
+_🌟 Thank you for visiting the project!_
