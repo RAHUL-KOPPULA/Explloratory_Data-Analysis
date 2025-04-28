@@ -81,7 +81,7 @@ _Clone this repository:_
 
 bash
 Copy code
-git clone https://github.com/yourusername/titanic-eda.git
+git clone (https://github.com/RAHUL-KOPPULA/Explloratory_Data-Analysis)
 Navigate to the project directory:
 
 bash
